@@ -2,100 +2,90 @@
 <h1 align="center">Hi, I'm Priya Rathor 👋</h1>
 
 <a href="#">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=800&lines=Python+Developer+%7C+Generative+AI+Engineer+%7C+LangChain+%7C+AWS+%7C+FastAPI+%7C+NLP+%7C+LLMs+%7C+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&lines=AI+%26+ML+Developer;Generative+AI+Solutions+Engineer;LangChain+%7C+LangGraph+%7C+RAG;AWS+%7C+OpenAI+%7C+LLMs;Always+learning+and+building+🚀" />
 </a>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Python Developer specializing in **Generative AI**, **NLP**, and **LLM-based automation**. I have hands-on experience working with cutting-edge tools like **LangChain, LangGraph, RAG, OpenAI, and Tavily** to build intelligent systems for education and business use cases.
+I’m a Python Developer and AI/ML Engineer passionate about building intelligent systems that solve real-world problems. With hands-on experience in **Generative AI**, **LangChain**, **LangGraph**, **RAG**, and **AWS**, I develop scalable NLP tools, automate workflows, and integrate custom AI agents for education and business use-cases.
 
-I love turning real-world problems into scalable AI-driven solutions and deploying them on cloud platforms like **AWS EC2, S3, and RDS**.
-
----
-
-## 🚀 What I Do
-
-- 🧠 Build **AI Tools** using OpenAI, LangChain, LangGraph, and Tavily.
-- 📄 Develop **custom PDF parsers** for education tech and assessments.
-- 💬 Create **context-aware conversational workflows** using LangGraph.
-- 📈 Design and deploy **real-time scoring** and **AI-driven feedback systems**.
-- ☁️ Deploy scalable services on AWS with **EC2, S3, RDS**, and **Vercel**.
-- 🔧 Automate workflows using **n8n** and **FastAPI**.
+- 🔭 Currently building **AI-powered automation systems** for real-time assessments and business planning.
+- ⚡ Love working on **LLM orchestration**, **custom pipelines**, and **intelligent agents**.
+- 🌱 Trained in **Generative AI** by Microsoft and LinkedIn.
+- 💬 Ask me about OpenAI, LangChain, LangGraph, Tavily, and deploying AI workflows on AWS.
 
 ---
 
-## 🧩 Featured Projects
+## 🛠️ Skills & Tech Stack
 
-- 🔍 **AI-Based Answer Evaluation Tool**: Compared student responses to model answers using LLMs and NLP pipelines.
-- 📊 **Business AI Advisor**: Provided strategic insights using LangChain, OpenAI, embeddings, and RAG.
-- 📚 **Assessment Generator**: Created real-time question sets and feedback loops powered by LangGraph.
-- 🧾 **PDF Extraction Tool**: Extracted structured data from exam papers for automated processing.
+**Languages & Tools**:  
+`Python` | `JavaScript` | `SQL` | `MongoDB` | `React.js` | `HTML/CSS`
 
-Explore all my work on [GitHub](https://github.com/priyarathor1718) or [LinkedIn](https://www.linkedin.com/in/priya-rathor1718).
+**AI/ML & NLP**:  
+`OpenAI` | `LangChain` | `LangGraph` | `RAG` | `LlamaIndex` | `spaCy` | `TensorFlow` | `Keras` | `Scikit-learn`
+
+**Cloud & DevOps**:  
+`AWS (EC2, S3, RDS, Route53)` | `Vercel` | `Render` | `Netlify` | `n8n`
+
+**Databases**:  
+`MongoDB` | `MySQL` | `ChromaDB` | `FAISS`
+
+**Version Control**:  
+`Git` | `GitHub`
 
 ---
 
 ## 💼 Experience
 
-**Python Developer – OMR India Outsources Pvt. Ltd.**  
-📍 Nov 2024 – Present  
-Built NLP/AI solutions using LangChain, OpenAI, AWS, and custom tooling.
+**Python Developer**  
+*OMR India Outsources Pvt. Ltd.*  
+- Built NLP tools with OpenAI, LangChain, and LangGraph for assessments and business advisory.  
+- Deployed AI services on AWS for real-time evaluations and feedback.  
+- Designed scalable architectures with modular pipelines using context-aware LLM flows.
 
-**Python Developer Intern – TechEunoia International Pvt. Ltd.**  
-📍 May 2024 – Oct 2024  
-Worked on LangChain-based chatbots and scalable AI integration.
-
----
-
-## 🎓 Education
-
-- 🧑‍🎓 MCA – Dr. A.P.J. Abdul Kalam Technical University (AKTU)
-- 🧑‍🎓 B.Sc. Mathematics – Dr. Bhimrao Ambedkar University, Agra
+**Python Developer Intern**  
+*TechEunoia International Pvt. Ltd.*  
+- Developed backend logic for AI-driven educational solutions.  
+- Implemented PDF parsing, auto-question generation, and AI feedback mechanisms.
 
 ---
 
-## 🏅 Certifications
+## 🚀 Projects
 
-- ✅ Generative AI – Microsoft & LinkedIn
-- ✅ Developer Job Simulation – Accenture Nordics
-- ✅ MERN Stack – Simplilearn
-
----
-
-## 💡 Skills
-
-### Programming:
-`Python` | `JavaScript` | `SQL`
-
-### AI & NLP:
-`OpenAI` | `LangChain` | `LangGraph` | `RAG` | `LlamaIndex` | `spaCy` | `Tavily`
-
-### ML & DL:
-`TensorFlow` | `Keras` | `Transfer Learning` | `Scikit-learn`
-
-### Dev & Tools:
-`FastAPI` | `MongoDB` | `MySQL` | `FAISS` | `ChromaDB` | `n8n` | `Git`
-
-### Cloud:
-`AWS EC2` | `S3` | `RDS` | `Route 53` | `Vercel` | `Netlify` | `Render`
+- **AI-Based Business Advisor**: Strategic planning tool using LangChain, OpenAI, embeddings, and RAG.
+- **AI Answer Evaluator**: NLP-powered system for scoring student answers using LangGraph and OpenAI.
+- **PDF Data Extractor**: Custom parser to extract metadata and structured content from educational PDFs.
+- **Real-time AI Assessment Engine**: Auto-generates questions and scores answers with contextual logic and dynamic workflows.
 
 ---
 
-## 📫 Contact Me
+## 📜 Certifications
 
-- 📧 Email: [rathorpriya1718@gmail.com](mailto:rathorpriya1718@gmail.com)
-- 🌐 LinkedIn: [linkedin.com/in/priya-rathor1718](https://linkedin.com/in/priya-rathor1718)
-- 🏠 Location: Agra, India
+- 🎓 Generative AI by Microsoft & LinkedIn  
+- 🎓 Developer Simulation - Accenture Nordics  
+- 🎓 MERN Stack Developer - Simplilearn  
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyarathor-ai&count_private=true&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyarathor-ai&theme=radical&hide_border=true" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyarathor1718&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyarathor1718&theme=radical" />
+  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rathorpriya1718@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/your-leetcode-profile" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 ---
+
+⭐️ *“I love solving real-world problems through AI & innovation.”*
