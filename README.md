@@ -1,96 +1,101 @@
-<!-- Greeting and introduction -->
-<h1 align="center">Hi, I'm Priya Rathor <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- Greeting and Introduction -->
+<h1 align="center">Hi, I'm Priya Rathor 👋</h1>
 
-<a href="#" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=1500%2B+Hours+of+Coding+Experience;MERN+Stack+Developer;Data+Structures+and+Algorithms;Full+Stack+Web+Developer" />
+<a href="#">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=800&lines=Python+Developer+%7C+Generative+AI+Engineer+%7C+LangChain+%7C+AWS+%7C+FastAPI+%7C+NLP+%7C+LLMs+%7C+Problem+Solver" />
 </a>
 
-<hr/>
+---
 
-<div align="center">
-  <p align="center">
-    I'm a passionate Full-Stack Web Developer with expertise in modern technologies like MERN Stack, HTML, CSS, JavaScript, React.js, Node.js, Express, MongoDB, MySQL , AWS, and more. With 1 year of professional experience, I enjoy solving complex problems and working on challenging projects. I'm also passionate about learning and sharing my knowledge through blog posts and technical content.
-  </p>
-</div>
+## 🧠 About Me
+
+I'm a Python Developer specializing in **Generative AI**, **NLP**, and **LLM-based automation**. I have hands-on experience working with cutting-edge tools like **LangChain, LangGraph, RAG, OpenAI, and Tavily** to build intelligent systems for education and business use cases.
+
+I love turning real-world problems into scalable AI-driven solutions and deploying them on cloud platforms like **AWS EC2, S3, and RDS**.
 
 ---
 
 ## 🚀 What I Do
-- **Full-Stack Web Development** (MERN Stack)
-- **Data Structures and Algorithms Enthusiast**
-- **Fast Learner & Problem Solver**
-- Currently seeking opportunities as a **MERN Stack Developer**.
+
+- 🧠 Build **AI Tools** using OpenAI, LangChain, LangGraph, and Tavily.
+- 📄 Develop **custom PDF parsers** for education tech and assessments.
+- 💬 Create **context-aware conversational workflows** using LangGraph.
+- 📈 Design and deploy **real-time scoring** and **AI-driven feedback systems**.
+- ☁️ Deploy scalable services on AWS with **EC2, S3, RDS**, and **Vercel**.
+- 🔧 Automate workflows using **n8n** and **FastAPI**.
 
 ---
 
-## 💻 Technologies & Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,svg,javascript,react,nextjs,typescript,materialui,nodejs,expressjs,mongodb,git,mysql" />
-  </a>
-</p>
+## 🧩 Featured Projects
+
+- 🔍 **AI-Based Answer Evaluation Tool**: Compared student responses to model answers using LLMs and NLP pipelines.
+- 📊 **Business AI Advisor**: Provided strategic insights using LangChain, OpenAI, embeddings, and RAG.
+- 📚 **Assessment Generator**: Created real-time question sets and feedback loops powered by LangGraph.
+- 🧾 **PDF Extraction Tool**: Extracted structured data from exam papers for automated processing.
+
+Explore all my work on [GitHub](https://github.com/priyarathor1718) or [LinkedIn](https://www.linkedin.com/in/priya-rathor1718).
 
 ---
 
-## 📂 Projects
-Explore all my projects and contributions on my [GitHub](https://github.com/abhishek-mishra-77) or visit my [Linktree](https://linktr.ee/abhishekmishra07) for more.
+## 💼 Experience
+
+**Python Developer – OMR India Outsources Pvt. Ltd.**  
+📍 Nov 2024 – Present  
+Built NLP/AI solutions using LangChain, OpenAI, AWS, and custom tooling.
+
+**Python Developer Intern – TechEunoia International Pvt. Ltd.**  
+📍 May 2024 – Oct 2024  
+Worked on LangChain-based chatbots and scalable AI integration.
 
 ---
 
-## 🔎 Ask Me About
-- MERN Stack Development
-- Data Structures & Algorithms
-- Problem-Solving Strategies
+## 🎓 Education
+
+- 🧑‍🎓 MCA – Dr. A.P.J. Abdul Kalam Technical University (AKTU)
+- 🧑‍🎓 B.Sc. Mathematics – Dr. Bhimrao Ambedkar University, Agra
 
 ---
 
-## 📞 Contact Me
-- 📧 Email: [abhishekmishra992016@gmail.com](mailto:abhishekmishra992016@gmail.com)
-- 📄 [View Resume/CV](https://drive.google.com/file/d/1cCxSvDLIykrJ-SbtiT4waPqP_6qP4DcB/view)
+## 🏅 Certifications
+
+- ✅ Generative AI – Microsoft & LinkedIn
+- ✅ Developer Job Simulation – Accenture Nordics
+- ✅ MERN Stack – Simplilearn
 
 ---
 
-## 🌐 Connect with Me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishekmishra77/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/abhishekm_developer/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://leetcode.com/u/abhishekmishra992016/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-%23F1F1F1?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.geeksforgeeks.org/user/abhishekmissfie/" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-%2300C7B7?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
-  <a href="https://codepen.io/abhishekmishra07" target="_blank"><img src="https://img.shields.io/badge/CodePen-%23131417?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
-</p>
+## 💡 Skills
+
+### Programming:
+`Python` | `JavaScript` | `SQL`
+
+### AI & NLP:
+`OpenAI` | `LangChain` | `LangGraph` | `RAG` | `LlamaIndex` | `spaCy` | `Tavily`
+
+### ML & DL:
+`TensorFlow` | `Keras` | `Transfer Learning` | `Scikit-learn`
+
+### Dev & Tools:
+`FastAPI` | `MongoDB` | `MySQL` | `FAISS` | `ChromaDB` | `n8n` | `Git`
+
+### Cloud:
+`AWS EC2` | `S3` | `RDS` | `Route 53` | `Vercel` | `Netlify` | `Render`
 
 ---
 
-## 🔧 Languages & Tools
-<p align="center">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/></a>
-</p>
+## 📫 Contact Me
+
+- 📧 Email: [rathorpriya1718@gmail.com](mailto:rathorpriya1718@gmail.com)
+- 🌐 LinkedIn: [linkedin.com/in/priya-rathor1718](https://linkedin.com/in/priya-rathor1718)
+- 🏠 Location: Agra, India
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-Mishra-77&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="Abhishek" />
-<!--     <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=chhavi48&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="chhavi" /> -->
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-Mishra-77&show_icons=true&theme=radical&hide_border=true" alt="Abhishek" /></p>
-</div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyarathor1718&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyarathor1718&theme=radical" />
 </p>
+
+---
